@@ -12,8 +12,10 @@ export default function Navba() {
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/Diving">Diving</Nav.Link>
-            <Nav.Link href="#pricing">About us</Nav.Link>
-            <Nav.Link href="#pricing">Rate us</Nav.Link>
+            <Nav.Link href="/AboutUs">About us</Nav.Link>
+            <Nav.Link href="/RateUs">Rate us</Nav.Link>
+
+            
           </Nav>
         </Container>
       </Navbar>
