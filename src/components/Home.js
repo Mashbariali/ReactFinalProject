@@ -12,7 +12,7 @@ export default function Home() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://mspoweruser.com/wp-content/uploads/2020/05/ocean-day-1.jpg"
+          src="https://images4.alphacoders.com/968/thumb-1920-968510.jpg"
           alt="First slide"
           height= {"500px"}
         />
